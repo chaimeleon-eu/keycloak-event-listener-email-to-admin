@@ -13,7 +13,7 @@ mvn package
 ```
 
 ## Install
-Build your own JAR file or download from [here](/releases)). 
+Build your own JAR file or download from [Releases](/../../releases).  
 Then simply add it to the directory "providers" within the Keycloak working directory 
 (if you use the official container image, it is `/opt/keycloak/providers`).  
 And configure if you want, see the section ["Configuration parameters"](#configuration-parameters) below.
